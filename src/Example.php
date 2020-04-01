@@ -1,6 +1,6 @@
 <?php
 
-namespace CrazyFactory\Boilerplate;
+namespace Rasta\Boilerplate;
 
 class Example
 {

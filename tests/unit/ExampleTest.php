@@ -1,8 +1,8 @@
 <?php
 
-namespace CrazyFactory\Boilerplate\Tests\Unit;
+namespace Rasta\Boilerplate\Tests\Unit;
 
-use CrazyFactory\Boilerplate\Example;
+use Rasta\Boilerplate\Example;
 
 class ExampleTest extends \Codeception\Test\Unit
 {
