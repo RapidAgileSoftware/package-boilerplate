@@ -1,7 +1,6 @@
 # PHP Package Boilerplate [![Build Status](https://travis-ci.com/RapidAgileSoftware/package-boilerplate.svg)](https://travis-ci.com/RapidAgileSoftware/package-boilerplate)
 
 Use this project as a starting point for PHP packages.
-
 ## Requirements
 - php:  *>7.1*
 - composer installed
